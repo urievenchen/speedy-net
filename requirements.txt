@@ -1,6 +1,6 @@
 # python==3.6
 asgiref==3.2.7
-Django==3.0.6
+Django==3.0.7
 django-crispy-forms==1.9.0
 django-environ==0.4.5
 django-friendship==1.9.1
